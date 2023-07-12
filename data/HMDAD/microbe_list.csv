@@ -1,0 +1,293 @@
+mic_id,mic_name
+0,Acetonema
+1,Acidobacteriaceae
+2,Acinetobacter
+3,Actinobacillus
+4,Actinobacteria
+5,Actinomyces
+6,Aerococcus
+7,Aeromonadaceae
+8,Aggregatibacter
+9,Akkermansia
+10,Alcaligenaceae
+11,Alistipes
+12,Alistipes finegoldii
+13,Alistipes putredinis
+14,Alteromonadaceae
+15,Anaerofilum
+16,Anaerostipes
+17,Anaerotruncus
+18,Anaerovorax
+19,Atopobium
+20,Atopobium vaginae
+21,Bacillaceae
+22,Bacilli
+23,Bacillus
+24,Bacterium 08.96.4
+25,Bacterium ASF500
+26,Bacterium B4C2-5
+27,Bacterium Ba2
+28,Bacterium C15
+29,Bacterium G100VIII
+30,Bacterium ic1214
+31,Bacterium ic1258
+32,Bacterium ic1292
+33,Bacterium ic1296
+34,Bacterium ic1311
+35,Faecalibacterium gallinarum
+36,Bacterium ic1391
+37,Bacterium MB7-1
+38,Bacterium mpn-isolate group 19
+39,Bacterium mpn-isolate group 22
+40,Bacterium mpn-isolate group 24
+41,Bacterium mpn-isolate group 27
+42,Bacterium mpn-isolate group 5
+43,Bacterium 'New Zealand B'
+44,Bacterium str. 31285
+45,Bacterium YE62
+46,Bacterium YE64
+47,Bacteroidaceae
+48,Bacteroidaceae bacterium Smarlab 3301643
+49,Bacteroidales
+50,Bacteroides
+51,Bacteroides eggerthii
+52,Bacteroides finegoldii
+53,Bacteroides fragilis
+54,Bacteroides ovatus
+55,Bacteroides sp. CJ78
+56,Bacteroides sp. D20
+57,Bacteroides thetaiotaomicron
+58,Bacteroides uniformis
+59,Bacteroides vulgatus
+60,Bacteroidetes
+61,Betaproteobacteria
+62,Bifidobacterium
+63,Bifidobacterium catenulatum
+64,Bilophila
+65,Bilophila wadsworthia
+66,Bovine rumen bacterium JPR13
+67,Brenneria
+68,Burkholderia
+69,Burkholderiales bacterium Smarlab 3302047
+70,Butyrate-producing bacterium ART55/1
+71,Butyrate-producing bacterium L1-810
+72,Butyrate-producing bacterium L1-952
+73,Butyrate-producing bacterium L2-50
+74,Butyrate-producing bacterium M104/1
+75,Butyrate-producing bacterium M21/2
+76,Butyrate-producing bacterium M50/1
+77,Butyrate-producing bacterium P607
+78,Butyrate-producing bacterium PH05YB02
+79,Butyrate-producing bacterium Ph07AY02
+80,Butyrate-producing bacterium PH07AY3
+81,Butyrate-producing bacterium PH07AY5
+82,Butyrate-producing bacterium PH07BY04
+83,Butyrate-producing bacterium SL6/1/1
+84,Butyrate-producing bacterium SM4/1
+85,Butyrate-producing bacterium SR1/1
+86,Butyrate-producing bacterium SR1/5
+87,Butyrate-producing bacterium SS2/1
+88,Butyrate-producing bacterium SSC/2
+89,Butyrate-producing bacterium T2-132
+90,Candidate division TM7
+91,Cellulomonadaceae
+92,Citrobacter
+93,Clostridia
+94,Clostridia bacterium TSW07CA7
+95,Clostridiaceae
+96,Clostridiaceae bacterium bSSV31
+97,Clostridiaceae bacterium LEMV63
+98,Clostridiaceae bacterium SH032
+99,Clostridiaceae bacterium SK061
+100,Clostridiales
+101,Clostridiales bacterium 80/3
+102,Clostridiales bacterium A2-162
+103,Clostridiales bacterium AHT16
+104,Clostridiales bacterium L2-14
+105,Clostridium
+106,Clostridium coccoides
+107,Clostridium cocleatum
+108,Clostridium difficile
+109,Clostridium innocuum
+110,Clostridium leptum
+111,Clostridium ramosum
+112,Clostridium spiroforme
+113,Collinsella
+114,Collinsella aerofaciens
+115,Comamonadaceae
+116,Coprobacillus
+117,Coprococcus
+118,Coriobacteriaceae
+119,Corynebacterium
+120,Coxiellaceae
+121,Cronobacter
+122,Dehalobacterium
+123,Desulfobacteraceae
+124,Desulfotomaculum
+125,Desulfovibrio
+126,Desulfovibrionaceae
+127,Dialister
+128,Dietzia maris
+129,Dorea
+130,Dysgonomonas
+131,Edwardsiella
+132,Eggerthella
+133,Enterobacter
+134,Enterobacter aerogenes
+135,Enterobacter hormaechei
+136,Enterobacteriaceae
+137,Enterococcus
+138,Enterococcus faecalis
+139,Enterococcus faecium
+140,Erwinia
+141,Erysipelothrix
+142,Erysipelotrichaceae
+143,Erysipelotrichales
+144,Escherichia
+145,Escherichia coli
+146,Eubacteriaceae
+147,Eubacterium
+148,Eubacterium eligens
+149,Eubacterium hallii
+150,Eubacterium rectale
+151,Eubacterium tortuosum
+152,Faecalibacterium
+153,Faecalibacterium prausnitzii
+154,Firmicutes
+155,Firmicutes bacterium EG14
+156,Firmicutes str. C29
+157,Fusobacteria
+158,Fusobacteriaceae
+159,Fusobacterium
+160,Fusobacterium nucleatum
+161,Gammaproteobacteria
+162,Gardnerella
+163,Gardnerella vaginalis
+164,Gram-negative bacterium cL10-2b-4
+165,Haemophilus
+166,Haemophilus parainfluenzae
+167,Hafnia
+168,Helicobacter pylori
+169,Holdemania
+170,Human intestinal firmicute CB47
+171,Human intestinal firmicute CO13
+172,Human intestinal firmicute CO19
+173,Human intestinal firmicute CO2
+174,Human intestinal firmicute CO35
+175,Human intestinal firmicute CO4
+176,Human intestinal firmicute CS26
+177,Klebsiella
+178,Klebsiella pneumoniae
+179,Lachnobacterium
+180,Lachnospira
+181,Lachnospiraceae
+182,Lachnospiraceae bacterium A2
+183,Lactobacillus
+184,Lactobacillus crispatus
+185,Lactobacillus iners
+186,Lactobacillus salivarius
+187,Lactococcus
+188,Leptotrichia
+189,Leptotrichia amnionii
+190,Lysobacter
+191,Mannheimia
+192,Mastodon intestinal bacterium AN-22-6
+193,Megasphaera
+194,Methanobrevibacter smithii
+195,Mobiluncus
+196,Mogibacterium
+197,Nitrospiraceae
+198,Odoribacter
+199,Odoribacter splanchnicus
+200,Oligella
+201,Olsenella
+202,Oscillibacter
+203,Oscillospira
+204,Oscillospiraceae bacterium NML 061048
+205,Oxalobacter formigenes
+206,Oxalobacteraceae
+207,Paenibacillaceae
+208,Pantoea
+209,Papillibacter
+210,Parabacteroides
+211,Parabacteroides distasonis
+212,Parabacteroides merdae
+213,Pasteurella
+214,Pasteurellaceae
+215,Pectobacterium
+216,Peptostreptococcaceae
+217,Peptostreptococcus
+218,Phascolarctobacterium
+219,Polyangiaceae
+220,Porphyromonadaceae
+221,Porphyromonas
+222,Porphyromonas gingivalis
+223,Porphyromonas uenonis
+224,Prevotella
+225,Prevotella copri
+226,Prevotellaceae
+227,Promicromonosporaceae
+228,Propionibacterium
+229,Propionibacterium acnes
+230,Proteobacteria
+231,Pseudomonas
+232,Pusillimonas
+233,Rickettsiales
+234,Rikenellaceae
+235,Roseburia
+236,Roseburia hominis
+237,Roseburia intestinalis
+238,Rumen bacterium 8/94-32
+239,Rumen bacterium R-7
+240,Rumen bacterium R-9
+241,Ruminococcaceae
+242,Ruminococcus
+243,[Ruminococcus] gnavus
+244,Ruminococcus productus
+245,Salmonella
+246,Segmented filamentous bacterium
+247,Selenomonas
+248,Serratia
+249,Shigella
+250,Shigella dysenteriae
+251,Shuttleworthia
+252,Solobacterium
+253,Sphingomonadaceae
+254,Staphylococcus
+255,Staphylococcus aureus
+256,Staphylococcus epidermidis
+257,Stenotrophomonas maltophilia
+258,Streptobacillus
+259,Streptococcaceae
+260,Streptococcus
+261,Streptococcus anginosus
+262,Streptococcus mitis
+263,Streptococcus parasanguinis
+264,Streptococcus salivarius
+265,Streptococcus vestibularis
+266,Subdoligranulum
+267,Sutterella
+268,Swine fecal bacterium FPC67
+269,Swine fecal bacterium FPC70
+270,Swine fecal bacterium RF3E-Xyl1
+271,Swine fecal bacterium SD-Pec1
+272,Robinsoniella peoriensis
+273,Syntrophobacteraceae
+274,Tannerella
+275,Tenericutes
+276,Terrahaemophilus
+277,Thiotrichaceae
+278,Treponema
+279,Tropheryma whipplei
+280,Unidentified bacterium ZF3
+281,Veillonella
+282,Veillonella atypica
+283,Veillonella dispar
+284,Veillonella parvula
+285,Veillonellaceae
+286,Verrucomicrobia
+287,Verrucomicrobia bacterium MS-F-88
+288,Verrucomicrobiaceae
+289,Vibrio
+290,Xanthomonas
+291,Yersinia
