@@ -28,9 +28,13 @@ sh init.sh
 ```
 
 Then all tools are located at ‘bin’ folder:
+
 get_disease_feature.py // To generate disease feature utilizing weighted Deepwalk
+
 get_microbe_feature.py // To generate microbe feature utilizing weightedDeepwalk
+
 get_edges.py // To generate directed microbe links and four types of weighted microbe ontological similarities
+
 WTHMDA_run.py // For model training and prediction
 
 ## Data preprocess
