@@ -27,7 +27,7 @@ warnings.filterwarnings('ignore')
 import sys
 sys.path.append("..")    
 
-from utility.evaluation2 import compute_auc
+from WTHMDA.utility.evaluation2 import compute_auc
 
 
     

@@ -65,7 +65,7 @@ def plot_auc(tprs, aucs, mean_fpr, name):
     plt.legend(loc='lower right', prop = {'size':6})
     
     plot_file = name + 'plot_1.jpg'
-    plt.savefig(plot_file)
+    #plt.savefig(plot_file)
     
     plt.show()
     
@@ -108,7 +108,7 @@ def plot_prc_curve(vd_data, name, label_column=0, score_column=1):
     plt.legend(loc="lower left", prop = {'size':6})
     
     plot_file = name + 'plot_2.jpg'
-    plt.savefig(plot_file)
+    #plt.savefig(plot_file)
     
     plt.show()
     return mean_auc, aucs

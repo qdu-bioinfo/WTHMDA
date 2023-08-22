@@ -15,8 +15,8 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import sys
 sys.path.append("../../")  
-from model.GraphConv import GraphConv
-from model.Weight_HeteroGraphConv import HeteroGraphConv
+from WTHMDA.model.GraphConv import GraphConv
+from WTHMDA.model.Weight_HeteroGraphConv import HeteroGraphConv
 
 
 class RGCN(nn.Module):

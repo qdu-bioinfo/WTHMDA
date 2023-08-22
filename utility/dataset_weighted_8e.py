@@ -25,15 +25,14 @@ sys.path.append("..")
 
 
 class Dataset(object):
-    def __init__(self, dm_path, mm_path, dd_path, rank_path, disease_features_path, microbe_features_path):
-        self.dm = pd.read_csv(dm_path)
+    def __init__(self, dm, mm_path, dd_path, rank_path, disease_features_path, microbe_features_path):
+        self.dm = dm
         self.mm = pd.read_csv(mm_path)
         self.dd = pd.read_csv(dd_path)
         self.rankT = pd.read_csv(rank_path)
         self.disease_featuresDF = pd.read_csv(disease_features_path)
         self.microbe_featuresDF = pd.read_csv(microbe_features_path)
-        self.disease_0_features768DF = pd.DataFrame(np.zeros((218, 768)))
-        self.disease_0_features128DF = pd.DataFrame(np.zeros((218, 128)))
+
         self.etype = ('disease', 'relate', 'microbe')
         self.etype2 = ('microbe', 'relate-by', 'disease')
 
@@ -75,8 +74,7 @@ class Dataset(object):
         
         microbe_featuresDF = self.microbe_featuresDF
         disease_featuresDF = self.disease_featuresDF
-        disease_0_features768DF = self.disease_0_features768DF
-        disease_0_features128DF = self.disease_0_features128DF
+
         
 
         dmhg.nodes['microbe'].data['feature'] = torch.Tensor(microbe_featuresDF.values)
